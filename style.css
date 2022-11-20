@@ -1,0 +1,19 @@
+H1 {
+color:green;
+font-size:200%;
+text-align:center;
+}
+H3 {
+font-size:100%;
+padding-left:12%;
+width:70%;
+}
+P {
+background-color:#ffffff;
+border-radius:10px;
+margin:25px;
+padding-left:10%;
+padding-top:10px;
+padding-bottom:10px;
+width:70%;
+}
